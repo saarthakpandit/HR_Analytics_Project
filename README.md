@@ -4,7 +4,7 @@ An end-to-end Data Analytics group project using Microsoft Excel, MySQL, Power B
 # Project Brief
 This project aims to utilize data analytics techniques to derive insights and optimize HR processes within the organization. By leveraging data-driven approaches, the project seeks to enhance decision-making, improve employee satisfaction, retention, and overall organizational performance. 
 
-# Goal of the Project
+# Goals of the Project
 1. Analyze historical HR data to identify trends, patterns, and correlations.
 
 2. Optimize recruitment processes by identifying key hiring metrics and strategies.
@@ -26,7 +26,7 @@ This project aims to utilize data analytics techniques to derive insights and op
 
 6. PowerPoint Presentation - HR Analytics Project.pdf
 
-**Note** - HR_1 & HR_2 files have been combined into a single Excel workbook.
+**Note** - HR_1 & HR_2 files have been combined into a single Excel workbook (HR Analytics Project.xlsx).
 
 # Scope
 1. Analysis of two HR data sources including employee demographics, performance evaluations, compensation, and benefits data.
