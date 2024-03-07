@@ -30,17 +30,17 @@ This project aims to utilize data analytics techniques to derive insights and op
 
 # Scope
 1. Analysis of two HR data sources including employee demographics, performance evaluations, compensation, and benefits data.
-   
+
 2. Utilization of statistical analysis, HR evaluation, and data visualization techniques.
 
-3.Investigation of factors influencing employee turnover, such as job satisfaction, tenure, and performance.
+3. Investigation of factors influencing employee turnover, such as job satisfaction, tenure, and performance.
 
 4. Exploration of employee engagement drivers and their impact on organizational performance.
 
-5.Recommendations for HR policies, practices, and interventions based on data insights.
+5. Recommendations for HR policies, practices, and interventions based on data insights.
 
 # Results
-Data Analytics - A result of the findings through a presentation and a dashboard.
+Data Analytics - A result of the findings through a presentation and 6 KPIs with multiple dashboards.
 
 # Conclusion
 The HR Analytics Data Analysis project aims to harness the power of data to transform HR practices and drive organizational success. By analyzing historical data, building HR evaluation techniques, and providing actionable recommendations, the project will enable the HR department to make informed decisions that enhance employee satisfaction, retention, and overall organizational performance.
