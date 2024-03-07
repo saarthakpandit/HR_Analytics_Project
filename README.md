@@ -2,7 +2,20 @@
 An end-to-end Data Analytics group project using Microsoft Excel, MySQL, Power BI, and Tableau 
 
 # Project Brief
-This project aims to utilize data analytics techniques to derive insights and optimize HR processes within the organization. By leveraging data-driven approaches, the project seeks to enhance decision-making, improve employee satisfaction, retention, and overall organizational performance. 
+This project aims to utilize data analytics techniques to derive insights and optimize HR processes within the organization. By leveraging data-driven approaches, the project seeks to enhance decision-making, improve employee satisfaction, retention, and overall organizational performance.
+
+# Team Members
+1. Bharat Ag
+
+2. Prem Suhas C H
+
+3. Sarthak Rajesh Pandit
+
+4. Sharwari Prasanna Potdar
+
+5. Nikhil Sharad Sonawane
+
+6. Saloni Kailas Malpani
 
 # Goals of the Project
 1. Analyze historical HR data to identify trends, patterns, and correlations.
